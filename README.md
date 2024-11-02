@@ -30,7 +30,7 @@ This project aims to predict the survival of passengers on the Titanic using a L
     - We retrained the model with the new features, achieving improved performance metrics.
 
 ## Conclusion
-By systematically preprocessing the data, tuning hyperparameters, and engineering features, we successfully enhanced the performance of our Logistic Regression model. The final model demonstrates reliable accuracy and strong discriminative power, making it effective for predicting Titanic passenger survival.
+By systematically preprocessing the data, tuning hyperparameters, and features engineering , we successfully enhanced the performance of our Logistic Regression model. The final model demonstrates reliable accuracy and strong discriminative power, making it effective for predicting Titanic passenger survival.
 
 ## Authors
 - ali.m.shafiei
