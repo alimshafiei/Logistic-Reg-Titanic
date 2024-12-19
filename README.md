@@ -37,3 +37,6 @@ By systematically preprocessing the data, tuning hyperparameters, and features e
 
 ## Acknowledgments
 - Thanks to the Titanic dataset providers and scikit-learn library developers for their contributions.
+
+## License This project is licensed under the MIT License - see the LICENSE file for details.
+## © 2024 Ali M Shafiei. All rights reserved.
